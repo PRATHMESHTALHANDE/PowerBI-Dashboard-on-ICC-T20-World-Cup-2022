@@ -1,2 +1,3 @@
 # PowerBI-Dashboard-on-ICC-T20-World-Cup-2022
 I got data related to ICC T20 World Cup 2022 from my college for preparing my first PowerBI dashboard for data analytics using different charts available on PowerBI under Data Analytics Visualizations.
+The data provided was not so in depth. I have used different charts for data visualizations. I also tried to apply measured to find win percentage per country. Me along with my group via power query made one to many and many to many relationship to add batting and bolling data in provided data set. Finally we made simple dashboard with different analytics. Kindly go through given dashboard. If you think I can make another different insights visualizations please contribute or simple help me improve.
